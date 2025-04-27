@@ -45,8 +45,7 @@
 
 ## ⚠️ Note about `animelists_cleaned.csv`
 
-- The file `animelists_cleaned.csv` is **very large** (multiple GB).
-- **Do NOT upload it to GitHub.**
+- The file `animelists_cleaned.csv` is **very large** (multiple GB).Hence it can not uploaded on Github
 - Instead, download it directly from Kaggle:  
   [https://www.kaggle.com/datasets/azathoth42/myanimelist?select=animelists_cleaned.csv](https://www.kaggle.com/datasets/azathoth42/myanimelist?select=animelists_cleaned.csv)
 - Place it in the `AnimeDashboard/data` folder before running the app.
